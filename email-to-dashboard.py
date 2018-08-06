@@ -2,7 +2,7 @@ import csv
 import sys
 import pandas as pd
 
-df = pd.read_csv("export.csv", dtype={"Name" : str, "Subject" : str, "Sent On" : str, "Sent" : str, "Unique Opens" : str, "Unique Clicks" : str, "Opt Outs" : str})
+df = pd.read_csv("~/Downloads/export.csv", dtype={"Name" : str, "Subject" : str, "Sent On" : str, "Sent" : str, "Unique Opens" : str, "Unique Clicks" : str, "Opt Outs" : str})
 
 CUTOFF = 500
 year = sys.argv[1]
