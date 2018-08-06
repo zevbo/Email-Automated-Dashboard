@@ -28,6 +28,6 @@ python email
 Then hit tab. Now write the year and then the month, and then you can hit enter.
 The line should look something like this:
 
-pythom email-to-dashboard 2018 7
+python email-to-dashboard 2018 7
 
 Finally, open dashboard.csv with numbers and copy all of the data and paste it into the dashboard
