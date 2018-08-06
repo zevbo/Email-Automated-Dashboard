@@ -16,11 +16,15 @@ Once you hit save, you will need to go to file, export to, CSV. Make sure you sa
 If you have done this before, you may want to delete all of the data from the dashboard.csv file as to clear the clutter.
 
 Now, go back to the terminal and go into the Email-Automated-Dashboard folder by typing in:
+
 cd Email-A
+
 And then hitting tab.
 
 Now, write the following(but don't hit enter just yet):
+
 python email
+
 Then hit tab. Now write the year and then the month, and then you can hit enter.
 The line should look something like this:
 
