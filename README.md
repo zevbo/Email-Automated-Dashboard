@@ -1,6 +1,6 @@
 # Email-Automated-Dashboard
 
-Open up a terminal and clone this repo using the following line:
+If you haven't done this before, open up a terminal and clone this repo using the following line:
 
 git clone https://github.com/zevbo/Email-Automated-Dashboard.git
 
